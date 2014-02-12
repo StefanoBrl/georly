@@ -9,7 +9,7 @@
             "title": "DOT",
             "description": "Here's a dot",
             "marker-size": "medium",
-            "marker-symbol": "scooter-24",
+            "marker-symbol": "scooter",
             "marker-color": "#a59",
             "stroke": "#555555",
             "stroke-opacity": 1.0,
