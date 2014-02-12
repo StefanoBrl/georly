@@ -3,7 +3,7 @@
     "features": [{ "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-38, 145]
+            "coordinates": [144.9,-37.8]
         },
         "properties": {
             "title": "DOT",
