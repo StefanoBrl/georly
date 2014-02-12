@@ -24,10 +24,10 @@
             "coordinates": [144.4,-37.5]
         },
         "properties": {
-            "title": "Bus",
-            "description": "More wheels",
+            "title": "Cafe",
+            "description": "Coffee and stuff",
             "marker-size": "medium",
-            "marker-symbol": "bus",
+            "marker-symbol": "cafe",
             "marker-color": "#f999",
             "stroke": "#555555",
             "stroke-opacity": 1.0,
