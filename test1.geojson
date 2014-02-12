@@ -27,7 +27,7 @@
             "title": "Cafe",
             "description": "Coffee and stuff",
             "marker-size": "medium",
-            "marker-symbol": "cafe",
+            "marker-symbol": "mobilephone",
             "marker-color": "#f999",
             "stroke": "#555555",
             "stroke-opacity": 1.0,
