@@ -75,6 +75,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "mobile phone",
+        "description": "",
+        "marker-size": "medium",
+        "marker-symbol": "mobilephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86984252929688,
+          -37.741399273150535
+        ]
+      }
     }
   ]
 }
