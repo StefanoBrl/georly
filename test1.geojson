@@ -47,7 +47,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "here's a line": "boop"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
